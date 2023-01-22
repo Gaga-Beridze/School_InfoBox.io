@@ -660,7 +660,6 @@ section {
   display: flex;
   align-items: center;
   gap: 25px;
-  margin-left: 40px !important;
 }
 .stars i {
   color: #e6e6e6;
